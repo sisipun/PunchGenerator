@@ -1,6 +1,6 @@
 import markovify as mk
 
-CONTENT_FILENAME = 'content.txt'
+CONTENT_FILENAME = 'style.txt'
 
 with open(CONTENT_FILENAME, encoding='utf8') as f:
     text = f.read()
